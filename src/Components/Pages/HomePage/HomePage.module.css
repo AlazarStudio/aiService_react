@@ -1,0 +1,5 @@
+.container {
+  /* height: 1000px; */
+  min-height: 1000px;
+  background: linear-gradient(to bottom, #000000 0%, #0c0619 50%, #1b1238 100%);
+}
